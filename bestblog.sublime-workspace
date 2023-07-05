@@ -1,0 +1,213 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"op",
+				"option1"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"o",
+				"option3"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Asus/Downloads/my project/script.js",
+		"/C/Users/Asus/Downloads/my project/file.css",
+		"/C/Users/Asus/Downloads/my project/tips.html",
+		"/C/Users/Asus/Downloads/my project/works.html",
+		"/C/Users/Asus/Downloads/my project/index2.html",
+		"/C/xampp/htdocs/bestBlog/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/bestBlog/routes/web.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Users/Asus/Downloads/my project/js/jquery-3.3.1.min.js",
+		"/C/Users/Asus/Downloads/my project/js/tether.min.js",
+		"/C/Users/Asus/Downloads/my project/js/script.js",
+		"/C/Users/Asus/Downloads/my project/jquery-3.3.1.min.js",
+		"/C/Users/Asus/Downloads/my project/css/tether.min.css",
+		"/C/Users/Asus/Downloads/_ec470d15d78a153d0e0a770eb8b5de92_week_4_eReader_night_mode/week_4_eReader_night_mode/index2.html",
+		"/C/Users/Asus/Downloads/_ec470d15d78a153d0e0a770eb8b5de92_week_4_eReader_night_mode/week_4_eReader_night_mode/works.html",
+		"/C/Users/Asus/Downloads/_ec470d15d78a153d0e0a770eb8b5de92_week_4_eReader_night_mode/week_4_eReader_night_mode/file.css",
+		"/C/Users/Asus/Downloads/_ec470d15d78a153d0e0a770eb8b5de92_week_4_eReader_night_mode/week_4_eReader_night_mode/tips.html",
+		"/C/Users/Asus/Downloads/_ec470d15d78a153d0e0a770eb8b5de92_week_4_eReader_night_mode/week_4_eReader_night_mode/script.js",
+		"/C/Users/Asus/Pictures/IMDB/jquery-3.3.1.min.js",
+		"/C/Users/Asus/Downloads/_ec470d15d78a153d0e0a770eb8b5de92_week_4_eReader_night_mode/week_4_eReader_night_mode/css/js/bootstrap.min.js.map",
+		"/C/Users/Asus/Downloads/_ec470d15d78a153d0e0a770eb8b5de92_week_4_eReader_night_mode/week_4_eReader_night_mode/bootstrap.css",
+		"/C/Users/Asus/Downloads/_ec470d15d78a153d0e0a770eb8b5de92_week_4_eReader_night_mode/week_4_eReader_night_mode/script",
+		"/C/Users/Asus/Desktop/F18 semester moodles/LA/المحاضرات المسجلة/s11.avi",
+		"/F/نموذج اشتراك بالمسابقة.pdf",
+		"/C/Users/Asus/Pictures/Screenshots/Screenshot_٢٠١٩-٠٢-٢٧-٢٠-٠٩-٤٨-1.png",
+		"/C/Users/Asus/Downloads/_ec470d15d78a153d0e0a770eb8b5de92_week_4_eReader_night_mode/week_4_eReader_night_mode/index.html",
+		"/C/Users/Asus/Downloads/_ec470d15d78a153d0e0a770eb8b5de92_week_4_eReader_night_mode/week_4_eReader_night_mode/videos.html",
+		"/C/Users/Asus/Documents/my worksheet/_68975aa0fb8cc2549b87629911a86e33_index.html",
+		"/C/Users/Asus/Downloads/_ec470d15d78a153d0e0a770eb8b5de92_week_4_eReader_night_mode/week_4_eReader_night_mode/style",
+		"/C/Users/Asus/Downloads/_ec470d15d78a153d0e0a770eb8b5de92_week_4_eReader_night_mode/week_4_eReader_night_mode/styles.css",
+		"/C/Users/Asus/Downloads/_e3aae2289cfca9f1eed9fafbdb8c00ed_week_3_peer_update_Jan17/week_3_peer_update_Jan17/index.html",
+		"/C/Users/Asus/Documents/my worksheet/_9c8d3b4b307bd50da5b8706dc14c2900_styles.css",
+		"/C/Users/Asus/Documents/my worksheet/project.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bestblog.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
